@@ -1,1 +1,20 @@
+ **Technical Support Centre**
+
+ **Frequently Asked Questions (FAQ)
+
+1. **What if the game flashes back/lags? **
+    - Make sure your device system is iOS 15 or higher.
+    - Close other apps in the background and clear the storage space
+    - Restart your device or reinstall the game 
+2. **How do I recover from lost in-game purchases? **
+    - Log in to the Apple ID from which you made the purchase and go to Game Settings → Click ‘Recover Purchase’.
+    - If not recovered, contact [zhangxhwz198@sina.com] within 24 hours and provide the order number.
+3. **What devices are supported? **
+    - iPhone: XR and above
+    - iPad: 5th generation and above
+
+**Contact Us**
+
+**Customer Service Email**: [zhangxhwz198@sina.com]
+
 google.com, pub-8781418501090526, DIRECT, f08c47fec0942fa0
